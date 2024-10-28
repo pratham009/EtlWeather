@@ -7,8 +7,8 @@ Programming language: Python
 Database - Postgres 17
 Code editor: VS Code
 Airflow 
-Astro-> Manages the Airflow [text](https://www.astronomer.io/docs/astro)
-api -> [text](https://api.open-meteo.com)
+Astro-> Manages the Airflow https://www.astronomer.io/docs/astro
+API Endpoint: [Open-Meteo](https://api.open-meteo.com)
 docker for containerization
 
 
