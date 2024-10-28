@@ -1,0 +1,26 @@
+Hello!!
+
+This is the beginner project related to Data engineering and also ETL developer roles.
+
+In this project the ETL pipeline has being developed using 
+Programming language: Python
+Database - Postgres 17
+Code editor: VS Code
+Airflow 
+Astro-> Manages the Airflow [text](https://www.astronomer.io/docs/astro)
+api -> [text](https://api.open-meteo.com)
+docker for containerization
+
+
+Running the Project:
+
+Clone the project and just run the command in terminal
+install astro cli
+👇👇
+"astro dev init" -> initialization
+"astro dev start" -> start the project
+"astro dev stop" -> stop the project
+
+Thankyou
+
+Note - docker desktop should be enable, one should have astro account.
